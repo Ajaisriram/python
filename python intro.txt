@@ -1,0 +1,12 @@
+               Python{1991}
+#)Backend
+#)Object oriented programmingg skript
+#)High level  general purpose language
+#)Free use an open source
+#)Python is a interpeter language
+#)Forward compiler ---old code will not support to newversion----new code support to oldversion
+
+
+
+
+
